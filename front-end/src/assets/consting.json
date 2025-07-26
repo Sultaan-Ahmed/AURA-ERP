@@ -1,0 +1,112 @@
+{
+    "styleId": "680242d9f9a520f721cd96c0",
+    "submittedAt": "2025-05-31T09:27:33.780Z",
+    "BOMDetails": [
+        {
+            "Type": "Fabric",
+            "SupplierName": "ZenFeline",
+            "MaterialInfo": "Embroidery Lace",
+            "Article": "ZP1203",
+            "Color": [
+                "Blue",
+                "Black",
+                "TBC"
+            ],
+            "Width": [
+                "18cm",
+                "25cm",
+                "32cm",
+                "TBC"
+            ],
+            "Placement": "Neckline, CF X2",
+            "_id": "683130aae676673d534c0920",
+            "consumption": [
+                {
+                    "color": "Blue",
+                    "width": "18cm",
+                    "value": 12
+                },
+                {
+                    "color": "Black",
+                    "width": "18cm",
+                    "value": 12
+                },
+                {
+                    "color": "TBC",
+                    "width": "18cm",
+                    "value": 12
+                }
+            ]
+        },
+        {
+            "Type": "Trims",
+            "SupplierName": "New Horizon",
+            "MaterialInfo": "Plain Elastic",
+            "Article": "KN2026",
+            "Color": [
+                "Black",
+                "Icon Gold",
+                "Gold Pleated",
+                "TBC"
+            ],
+            "Width": [
+                "18cm",
+                "TBC",
+                "25cm",
+                "10mm"
+            ],
+            "Placement": "Under Band",
+            "_id": "683130aae676673d534c0921",
+            "consumption": [
+                {
+                    "color": "Black",
+                    "width": "10mm",
+                    "value": 5
+                },
+                {
+                    "color": "Icon Gold",
+                    "width": "10mm",
+                    "value": 5
+                },
+                {
+                    "color": "Gold Pleated",
+                    "width": "10mm",
+                    "value": 5
+                },
+                {
+                    "color": "TBC",
+                    "width": "10mm",
+                    "value": 5
+                }
+            ]
+        },
+        {
+            "Type": "Packaging",
+            "SupplierName": "Byways",
+            "MaterialInfo": "Sewing Ticket",
+            "Article": "BY2025",
+            "Color": [
+                "TBC",
+                "White"
+            ],
+            "Width": [
+                "10mm",
+                "TBC"
+            ],
+            "Placement": "Shoulder strap",
+            "_id": "683130aae676673d534c0922",
+            "consumption": [
+                {
+                    "color": "TBC",
+                    "width": "TBC",
+                    "value": 7
+                },
+                {
+                    "color": "White",
+                    "width": "TBC",
+                    "value": 7
+                }
+            ]
+        }
+    ]
+}

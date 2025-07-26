@@ -1,0 +1,60 @@
+const mongoose=require('mongoose');
+
+// items schema
+const itemSchema=new mongoose.Schema({
+            Type:{
+                type:String,
+            },
+            SupplierName:{
+                type:String,
+            },
+            MaterialInfo:{
+                type:String
+            },
+            Article:{
+                type:String,
+            },
+           itemDetails:[
+            {
+                Color:{
+                    type:String,
+                },
+                Width:{
+                    type:String,
+                },
+                Price:{
+                    type:Number,
+                },
+                UOM:{
+                    type:String,
+                },
+                PriceUnit:{
+                    type:String,
+                },
+                MOQ:{
+                    type:String,
+                },
+                MCQ:{
+                    type:String,
+                },
+                MOQSurcharge:{
+                    type:String,
+                },
+                MCQSurcharge:{
+                    type:String,
+                },
+            }
+           ],
+            MSQ:{
+                type:String,
+            },
+            MSQSurcharge:{
+                type:String,
+            },
+            createdAt:{
+                type:Date,
+                default:Date.now,
+            }
+})
+
+module.exports=mongoose.model('Item',itemSchema)

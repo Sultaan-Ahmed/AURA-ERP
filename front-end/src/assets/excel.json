@@ -1,0 +1,34 @@
+{
+  "title": "OCS for WAVE EMB",
+  "metadata": {
+    "buyerName": "ABC Buyer",
+    "orderNo": "ORD123",
+    "styleName": "Cool Shirt",
+    "date": "2025-05-30",
+    "season": "Summer 2025",
+    "color": "Navy Blue"
+  },
+  "sections": [
+    {
+      "title": "FABRIC ITEMS",
+      "items": [
+        { "material": "Cotton Fabric", "qty": 100, "rate": 4.5, "remarks": "Main body" },
+        { "material": "Lining Fabric", "qty": 50, "rate": 3.2, "remarks": "Inner layer" }
+      ]
+    },
+    {
+      "title": "EMBROIDERY ITEMS",
+      "items": [
+        { "material": "Embroidery Thread", "qty": 20, "rate": 2, "remarks": "Decorative" },
+        { "material": "Backing Paper", "qty": 10, "rate": 1.5, "remarks": "Support" }
+      ]
+    },
+    {
+      "title": "ACCESSORIES",
+      "items": [
+        { "material": "Buttons", "qty": 100, "rate": 0.5, "remarks": "Plastic, 2-hole" },
+        { "material": "Zippers", "qty": 20, "rate": 1.8, "remarks": "8-inch" }
+      ]
+    }
+  ]
+}

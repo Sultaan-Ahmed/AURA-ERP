@@ -1,0 +1,78 @@
+{
+    "BOMDetails": [
+        {
+            "Type": "Fabric",
+            "SupplierName": "Xiangya",
+            "MaterialInfo": "Gallon Lace",
+            "Article": "DP30383",
+            "Color": [
+                "Icon Gold"
+            ],
+            "Width": [
+                "32cm"
+            ],
+            "Placement": "CUP X2, SCDL X2"
+        },
+        {
+            "Type": "Fabric",
+            "SupplierName": "ZenFeline",
+            "MaterialInfo": "Embroidery Lace",
+            "Article": "ZP1203",
+            "Color": [
+                "Black"
+            ],
+            "Width": [
+                "25cm"
+            ],
+            "Placement": "Under Band"
+        },
+        {
+            "Type": "Trims",
+            "SupplierName": "New Horizon",
+            "MaterialInfo": "Plain Elastic",
+            "Article": "KN2026",
+            "Color": [
+                "Black"
+            ],
+            "Width": [
+                "TBC"
+            ],
+            "Placement": "Shoulder strap"
+        },
+        {
+            "Type": "Packaging",
+            "SupplierName": "Byways",
+            "MaterialInfo": "Sewing Ticket",
+            "Article": "BY2025",
+            "Color": [
+                "White"
+            ],
+            "Width": [
+                "TBC"
+            ],
+            "Placement": "Wrapping"
+        }
+    ],
+    "BOMImages": [
+        {
+            "file": {},
+            "preview": "blob:http://localhost:5173/fb986b82-c731-4ab9-9c04-287f3020155b"
+        },
+        {
+            "file": {},
+            "preview": "blob:http://localhost:5173/f346d19a-7f86-4d34-9d9a-4d3a56837147"
+        },
+        {
+            "file": {},
+            "preview": "blob:http://localhost:5173/b81ce2a6-8f18-4beb-994a-1f15a0b409e2"
+        },
+        {
+            "file": {},
+            "preview": "blob:http://localhost:5173/637e8c8b-c4a9-45a9-b45c-741a8033f4db"
+        },
+        {
+            "file": {},
+            "preview": "blob:http://localhost:5173/370fe69b-0770-4044-b864-f526fd9d54cd"
+        }
+    ]
+}

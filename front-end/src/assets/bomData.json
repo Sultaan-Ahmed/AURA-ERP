@@ -1,0 +1,126 @@
+{
+    "styleId": "68024308f9a520f721cd96c8",
+    "submittedAt": "2025-06-28T04:59:22.535Z",
+    "BOMDetails": [
+        {
+            "Type": "Fabric",
+            "SupplierName": "Xiangya",
+            "MaterialInfo": "Gallon Lace",
+            "Article": "DP30383",
+            "Color": [
+                "Icon Gold"
+            ],
+            "Width": [
+                "32cm",
+                "TBC"
+            ],
+            "Placement": "CUP X2, SCDL X2",
+            "_id": "6830b5fcca1f34cc2903ada6",
+            "consumption": [
+                {
+                    "color": "Icon Gold",
+                    "width": "32cm",
+                    "value": 1.3
+                }
+            ]
+        },
+        {
+            "Type": "Trims",
+            "SupplierName": "New Horizon",
+            "MaterialInfo": "Plain Elastic",
+            "Article": "KN2026",
+            "Color": [
+                "TBC",
+                "Icon Gold",
+                "Black"
+            ],
+            "Width": [
+                "25cm",
+                "TBC",
+                "10mm"
+            ],
+            "Placement": "Under Band",
+            "_id": "6830b5fcca1f34cc2903ada7",
+            "consumption": [
+                {
+                    "color": "TBC",
+                    "width": "25cm",
+                    "value": 0.3
+                },
+                {
+                    "color": "Icon Gold",
+                    "width": "25cm",
+                    "value": 0.3
+                },
+                {
+                    "color": "Black",
+                    "width": "25cm",
+                    "value": 0.3
+                }
+            ]
+        },
+        {
+            "Type": "Trims",
+            "SupplierName": "New Horizon",
+            "MaterialInfo": "Plain Elastic",
+            "Article": "KN2026",
+            "Color": [
+                "Black",
+                "Icon Gold",
+                "TBC"
+            ],
+            "Width": [
+                "25cm",
+                "TBC",
+                "10mm"
+            ],
+            "Placement": "Shoulder strap",
+            "_id": "6830b5fcca1f34cc2903ada8",
+            "consumption": [
+                {
+                    "color": "Black",
+                    "width": "TBC",
+                    "value": 0.56
+                },
+                {
+                    "color": "Icon Gold",
+                    "width": "TBC",
+                    "value": 0.56
+                },
+                {
+                    "color": "TBC",
+                    "width": "TBC",
+                    "value": 0.56
+                }
+            ]
+        },
+        {
+            "Type": "Packaging",
+            "SupplierName": "Byways",
+            "MaterialInfo": "Sewing Ticket",
+            "Article": "BY2025",
+            "Color": [
+                "White",
+                "TBC"
+            ],
+            "Width": [
+                "10mm",
+                "TBC"
+            ],
+            "Placement": "Wrapping",
+            "_id": "6830b5fcca1f34cc2903ada9",
+            "consumption": [
+                {
+                    "color": "White",
+                    "width": "TBC",
+                    "value": 1
+                },
+                {
+                    "color": "TBC",
+                    "width": "TBC",
+                    "value": 1
+                }
+            ]
+        }
+    ]
+}
